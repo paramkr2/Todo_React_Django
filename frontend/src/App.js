@@ -106,10 +106,10 @@ function App() {
 		</div> 
 		<footer className="text-center text-lg-start bg-light text-muted mt-4">
 				<div className="text-center p-4">
-				© Copyright - <a target="_blank"  className="text-reset fw-bold text-decoration-none" href="https://twitter.com/greglim81" > Greg Lim
+				© Copyright - <a target="_blank"  className="text-reset fw-bold text-decoration-none" href="https://twitter.com/greglim81" > Something 
 				</a> - 
 				<a target="_blank" className="text-reset fw-bold text-decoration-none" href="https://twitter.com/danielgarax" >
-					Daniel Correa
+					Rise Revolt
 				</a>
 			</div>
 		</footer>
